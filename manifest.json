@@ -1,0 +1,16 @@
+{
+  "name": "420 Strain Concentrates",
+  "short_name": "Conventrates",
+  "theme_color": "#7cca31",
+  "background_color": "#f5f6f9",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/images/svg/pills.svg",
+      "sizes": "550x400",
+      "type": "image/svg"
+    }
+  ]
+}
